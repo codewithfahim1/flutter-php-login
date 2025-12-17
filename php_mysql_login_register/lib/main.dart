@@ -66,6 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
       ),
+      // i think the design is good now we have to make the app work 
       body: Container(
         height: 300,
         child: Card(
