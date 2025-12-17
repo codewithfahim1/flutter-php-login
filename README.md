@@ -1,0 +1,1 @@
+This mobile application was developed using Flutter for the frontend and PHP for the backend, with MySQL as the database to store and manage user data. The app implements a complete login and registration system for mobile users. This project was completed as part of the M-App assignment.
